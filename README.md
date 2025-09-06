@@ -1,19 +1,13 @@
-Of course! Here is a README file generated for your React To-Do List application.
+# React To-Do List Application
 
-React To-Do List Application
-A simple and intuitive to-do list application built with React and styled with Tailwind CSS. This project allows users to efficiently manage their daily tasks.
+A simple and intuitive to-do list application built with **React** and styled with **Tailwind CSS**. This project helps users efficiently manage their daily tasks.
 
-Features ✨
-Add Tasks: Quickly add new tasks to your list.
+## Features ✨
+- **Add Tasks**: Quickly add new tasks to your list.
+- **Delete Tasks**: Remove tasks that are completed or no longer needed.
+- **Reorder Tasks**: Easily change the priority of your tasks by moving them up or down in the list.
 
-Delete Tasks: Remove tasks that are completed or no longer needed.
-
-Reorder Tasks: Easily change the priority of your tasks by moving them up or down in the list.
-
-Tech Stack 🛠️
-React: A JavaScript library for building user interfaces.
-
-Tailwind CSS: A utility-first CSS framework for rapid UI development.
-
-React Icons: A library providing popular icons for React projects.
-
+## Tech Stack 🛠️
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **React Icons**: A library providing popular icons for React projects.
