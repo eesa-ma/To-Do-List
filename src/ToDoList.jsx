@@ -3,7 +3,7 @@ import { HiArrowNarrowUp, HiArrowNarrowDown } from "react-icons/hi";
 
 function ToDoList() {
 
-    const [tasks, setTasks] = useState(["walk dog", "feed cow"]);
+    const [tasks, setTasks] = useState([]);
     const [newTask, setNewTask] = useState("");
 
     const handleInputChange = (event) => {
